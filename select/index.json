@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ねだり上手なあの子",
+  "base_artist": "くしゃみ。。",
+  "createdAt": "2026-02-14T12:58:14.853589Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ねだり上手なあの子",
+      "artist": "くしゃみ。。",
+      "has_synced": false,
+      "path": "select/pl_01_ねだり上手なあの子_くしゃみ。。.txt"
+    }
+  ]
+}
